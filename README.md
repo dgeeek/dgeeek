@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+A passionate Learner, Backend developer, Problem Solver.
+
+📫 How to reach me
+
+  📧 Email: jtanishq99@gmail.com | 📱 Phone: +91 7976766522
+  🌐 LinkedIn: linkedin.com/in/tanishqjain99
+
+
+
+
+
 <!--
 **dgeeek/dgeeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
