@@ -10,7 +10,9 @@ A passionate Learner, Backend developer, Problem Solver.
 👨‍💻 Here are my Leetcode/HackerRank/CodeStudio Profiles:
 
    💻 LeetCode: https://leetcode.com/sickkk/
+   
    💻 CodeStudio: https://www.codingninjas.com/studio/profile/4d3c86f7-ce8b-4869-a8db-0d7f6ea93494
+   
    💻 HackerRank: https://www.hackerrank.com/profile/dgeek
 
 
