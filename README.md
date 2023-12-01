@@ -5,7 +5,8 @@ A passionate Learner, Backend developer, Problem Solver.
 📫 How to reach me
 
   📧 Email: jtanishq99@gmail.com | 📱 Phone: +91 7976766522
-  🌐 LinkedIn: linkedin.com/in/tanishqjain99
+  
+  🌐 LinkedIn: https://linkedin.com/in/tanishqjain99
 
 👨‍💻 Here are my Leetcode/HackerRank/CodeStudio Profiles:
 
