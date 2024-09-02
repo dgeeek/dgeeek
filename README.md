@@ -4,7 +4,7 @@ A passionate Learner, Backend developer, Problem Solver.
 
 📫 How to reach me
 
-  📧 Email: jtanishq99@gmail.com | 📱 Phone: +91 7976766522
+  📧 Email: jtanishq99@gmail.com | 📱 Phone: +91 7251872240
   
   🌐 LinkedIn: https://linkedin.com/in/tanishqjain99
 
